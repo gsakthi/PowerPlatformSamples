@@ -1,6 +1,6 @@
 gs_questionnaire,gs_Question,gs_Answers
 Qst326589,Its a powerful tool that helps make quick changes,Good | Quick | Powerful
-Qst326590,However when I try to edit a link I get an error.,Potential  Easy | Good Ease of Use | filters | bug
+Qst326590,However when I try to edit a link I get an error.,Potential  Easy | Good | Ease of Use | filters | bug
 Qst326591,to work on your Feature Y capabilities they are not as good as your competition,Feature Y | Competition
 Qst326592,Easy to view data,Easy | Ease of use
 Qst326593,I like how you made feature X easy to use. This reduces a lot of complexity.,Easy | Good | Feature X
@@ -9,7 +9,7 @@ Qst326595,view performance,Slow | Fast
 Qst326596,Usability of the tool,Easy | Ease of use | Hard
 Qst326597,No of clicks,Ok | Decrease
 Qst326598,Navigation,Good | Quick | Powerful
-Qst326599,Information about the pages,Not |Ok | Good
+Qst326599,Information about the pages,Not | Ok | Good
 Qst326600,The user interface is intuitive and makes it easy to filter results. ,Easy | Ease of use | Hard
 Qst326601,Complexity reduces new filter features,Good | Quick | Powerful
 Qst326602,Error messages are,Informative | Not
